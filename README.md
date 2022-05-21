@@ -1,1 +1,1 @@
-Tensor devops lesson 10  f96a519
+helm_app_for_tensor
