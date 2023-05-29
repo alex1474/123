@@ -1,1 +1,0 @@
-helm_app_for_tensor
